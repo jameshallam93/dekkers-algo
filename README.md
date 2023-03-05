@@ -16,6 +16,8 @@ Running this command without debug will fire through 200 randomly-delayed and th
 
 Running this in debug mode will slow things down significantly, and log out the various states after each time the CR is accessed. It will also help to demonstrate the turn/flag system.
 
+![](./assets/algo.png)
+
 ### NB
 
 This was created in 30 minutes out of curiosity after watching a single youtube video and is probably not a very good implementation. For more and better info on Dekker's algorithm, check out [wikipedia](https://en.wikipedia.org/wiki/Dekker%27s_algorithm)
